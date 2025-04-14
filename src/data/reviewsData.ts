@@ -14,7 +14,7 @@ export const reviews: Review[] = [
     name: 'Sarah Johnson',
     date: '2024-04-02',
     rating: 5,
-    content: 'Absolutely love the atmosphere and coffee at Café Bliss! The cappuccino is perfect and the staff are always welcoming. My go-to spot for morning meetings.',
+    content: "Absolutely love the atmosphere and coffee at Café Bliss! The cappuccino is perfect and the staff are always welcoming. My go-to spot for morning meetings.",
     avatar: 'https://i.pravatar.cc/150?img=1'
   },
   {
@@ -22,7 +22,7 @@ export const reviews: Review[] = [
     name: 'Michael Chen',
     date: '2024-03-25',
     rating: 4,
-    content: 'Great selection of pastries and the cold brew is exceptional. The only reason I didn't give 5 stars is because it can get quite crowded during peak hours.',
+    content: "Great selection of pastries and the cold brew is exceptional. The only reason I didn't give 5 stars is because it can get quite crowded during peak hours.",
     avatar: 'https://i.pravatar.cc/150?img=3'
   },
   {
@@ -30,7 +30,7 @@ export const reviews: Review[] = [
     name: 'Emma Rodriguez',
     date: '2024-03-18',
     rating: 5,
-    content: 'The avocado toast here is to die for! I've tried many cafes in the area and Café Bliss definitely has the best breakfast options. Highly recommend!',
+    content: "The avocado toast here is to die for! I've tried many cafes in the area and Café Bliss definitely has the best breakfast options. Highly recommend!",
     avatar: 'https://i.pravatar.cc/150?img=5'
   },
   {
@@ -38,7 +38,7 @@ export const reviews: Review[] = [
     name: 'David Wilson',
     date: '2024-03-10',
     rating: 4,
-    content: 'I visit weekly for their croissants. They're always fresh and buttery. The coffee is good too, though sometimes the espresso can be a bit bitter.',
+    content: "I visit weekly for their croissants. They're always fresh and buttery. The coffee is good too, though sometimes the espresso can be a bit bitter.",
     avatar: 'https://i.pravatar.cc/150?img=8'
   },
   {
@@ -46,7 +46,7 @@ export const reviews: Review[] = [
     name: 'Olivia Park',
     date: '2024-02-28',
     rating: 5,
-    content: 'This place has the perfect ambiance for getting work done. The wifi is reliable, the chairs are comfortable, and the lattes keep me going!',
+    content: "This place has the perfect ambiance for getting work done. The wifi is reliable, the chairs are comfortable, and the lattes keep me going!",
     avatar: 'https://i.pravatar.cc/150?img=9'
   }
 ];
